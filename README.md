@@ -1,4 +1,4 @@
-# SD-53-NEW - Hệ Thống Bán Quần Áo Trực Tuyến
+# SD-53-NEW - Hệ Thống Bán Quần ÂU
 
 Hệ thống e-commerce bán quần áo với kiến trúc phân tách Backend-Frontend, hỗ trợ bán hàng online và bán hàng tại quầy (POS).
 
